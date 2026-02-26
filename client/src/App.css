@@ -1,0 +1,16 @@
+body {
+  background-color: #111;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+.container {
+  padding: 20px;
+}
+
+.video-container img {
+  width: 80%;
+  border: 4px solid #00ffcc;
+  border-radius: 10px;
+}
